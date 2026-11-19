@@ -1,4 +1,11 @@
 Testing add file functionality for file from git
+<<<<<<< Updated upstream
 New changes added 
 chage one 
 change two
+=======
+local changes added
+local one 
+local two
+
+>>>>>>> Stashed changes
