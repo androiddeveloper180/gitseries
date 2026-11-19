@@ -9,5 +9,7 @@ local two
 local three
 remote four
 remote five
+local six
+local seven
 
 
